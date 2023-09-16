@@ -56,8 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+          Hello, and thank you for visiting my page. My name is Kevin and I'm a dedicated developer with a deep passion for creating, innovating, and collaborating. I firmly believe in the transformative power of coding to address real-world challenges and bring about positive change. I look forward to accomplishing this together.
           </p>
         </motion.div>
 
