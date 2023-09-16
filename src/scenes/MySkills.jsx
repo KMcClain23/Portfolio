@@ -24,8 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          Throughout my life and career, I've consistently found these skills to be incredibly valuable in any situation, be it at work or in personal life events.
           </p>
         </motion.div>
 
@@ -49,7 +48,7 @@ const MySkills = () => {
 
       {/* SKILLS */}
       <div className="md:flex md:justify-between mt-16 gap-32">
-        {/* EXPERIENCE */}
+        {/* Manage */}
         <motion.div
           className="md:w-1/3 mt-10"
           initial="hidden"
@@ -65,19 +64,17 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Experience
+                Manage
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+          Whether it's time, a team of talented people, or intricate projects, my management experience will orchestrate efficient processes, ensuring projects are delivered on time and within scope. With transparent communication and proactive issue resolution, I consistently manage expectations and deliver effective solutions.
           </p>
         </motion.div>
 
-        {/* INNOVATIVE */}
+        {/* Adapt */}
         <motion.div
           className="md:w-1/3 mt-10"
           initial="hidden"
@@ -93,19 +90,16 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Innovative
+                Adapt
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-lime-600 absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+          I have a strong capacity for adaptation and a newfound passion for my current work, which drives my ongoing commitment to personal and professional growth. While my background primarily lies in sales, my journey has led me to discover the true love of my work life in my current role, motivating me to continuously expand my skills and knowledge as a creator.
           </p>
         </motion.div>
-        {/* IMAGINATIVE */}
+        {/* Innovate */}
         <motion.div
           className="md:w-1/3 mt-10"
           initial="hidden"
@@ -121,16 +115,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Imaginative
+                Innovate
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+          Passionate about innovation and dedicated to putting in the time required, I'm committed to finding creative solutions to complex problems and turning imaginative ideas into reality. Beyond my coding prowess, I also bring a sense of humor to the table, using well-timed dad jokes to make the world of technology more enjoyable and fun. :)
           </p>
         </motion.div>
       </div>

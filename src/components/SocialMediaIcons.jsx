@@ -1,6 +1,6 @@
 const SocialMediaIcons = () => {
   return (
-    <div className="flex justify-center md:justify-start my-10 gap-7">
+  <div className="flex justify-center md:justify-start items-center my-10 gap-7">
       <a
         className="hover:opacity-50 transition duration-500"
         href="https://www.linkedin.com/in/kevin-mcclain-00003468/"
@@ -11,11 +11,11 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.facebook.com"
+        href="https://github.com/KMcClain23"
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="facebook-link" src="../assets/facebook.png" />
+        <img alt="github-link" src="../assets/github.png" />
       </a>
     </div>
   );

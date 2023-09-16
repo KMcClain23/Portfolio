@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+          Having just a great attitude and being such a positive influence, his passion and charisma makes him the greatest teammate!
           </p>
         </motion.div>
 
@@ -77,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+          Kevin has a remarkable talent for problem-solving and a relentless pursuit of excellence. His dedication and deep-dive approach to challenges make him the go-to developer for any project.
           </p>
         </motion.div>
       </div>
