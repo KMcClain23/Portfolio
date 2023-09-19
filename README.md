@@ -1,3 +1,5 @@
+![Portfolio](https://res.cloudinary.com/djvpgim4w/image/upload/v1694912760/PortfolioDemoVid_d5mpep.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
